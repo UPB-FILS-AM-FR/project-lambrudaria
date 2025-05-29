@@ -51,9 +51,3 @@ Am ales să fac acest proiect pentru că mi s-a părut util și interesant să c
 - Afișaj contextual pe OLED pentru feedback mediu și status ciclu.
 - Ajustări finale cod (timp total focus, reset cicluri, buzzer, afișare finală etc.)
 
-### Week 7 - 19 May
-
-### Week 8 - 26 May
-
-
-## Reference links
