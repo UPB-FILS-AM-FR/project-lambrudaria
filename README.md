@@ -35,8 +35,21 @@ Am ales să fac acest proiect pentru că mi s-a părut util și interesant să c
 
 
 ## Log
+
 ### Week 6 - 12 May
-Finalizare comandă și achiziție componente.
+- Finalizare comandă și achiziție componente.
+
+### Week 7 - 19 May
+- Montare componente hardware pe placă/breadboard.
+- Testare senzori DHT22 și TEMT6000.
+- Implementare cod de bază pentru afișaje și senzori.
+- Inițiere logică Pomodoro (focus/pauză + timer).
+
+### Week 8 - 26 May
+- Adăugare animație de repaus.
+- Implementare logică completă pentru butoanele 1, 2, 3 și 4.
+- Afișaj contextual pe OLED pentru feedback mediu și status ciclu.
+- Ajustări finale cod (timp total focus, reset cicluri, buzzer, afișare finală etc.)
 
 ### Week 7 - 19 May
 
