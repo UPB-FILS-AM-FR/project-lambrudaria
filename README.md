@@ -41,7 +41,7 @@ Am ales să fac acest proiect pentru că mi s-a părut util și interesant să c
 
 ### Week 7 - 19 May
 - Montare componente hardware pe placă/breadboard.
-- Testare senzori DHT22 și TEMT6000.
+- Testare senzori DHT22 și TEMT6000 + OLED și LCD.
 - Implementare cod de bază pentru afișaje și senzori.
 - Inițiere logică Pomodoro (focus/pauză + timer).
 
