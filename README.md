@@ -27,7 +27,7 @@ Am ales să fac acest proiect pentru că mi s-a părut util și interesant să c
 | Buzzer activ 5V | Feedback sonor | [2,80 RON](https://www.optimusdigital.ro/ro/audio-buzzere/633-buzzer-activ-de-5-v.html) |
 | Modul TEMT6000 | Senzor lumină ambientală | [9,98 RON](https://www.emag.ro/modul-senzor-lumina-ambientala-temt6000-compatibil-arduino-ai079-s89/pd/DYK568BBM) |
 | Senzor DHT22 | Temperatură & umiditate | [23,12 RON](https://www.optimusdigital.ro/ro/senzori-senzori-de-temperatura/1449-modul-senzor-de-temperatura-i-umiditate-dht22.html) |
-| TTP223 Touch Sensor | Buton tactil | [3,99 RON](https://www.optimusdigital.ro/ro/senzori-senzori-de-atingere/861-modul-cu-senzor-capacitiv-ttp223.html) |
+| TP229 Capacitive Touch Sensor Module | Modul butoane tactile | [8,67 RON](https://www.optimusdigital.ro/en/touch-sensors/1112-tp229-capacitive-touch-sensor-module.html?search_query=capacitiv&results=95) |
 | Breadboard 750 puncte | Prototipare | [8,98 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/13245-breadboard-750-puncte.html) |
 | Fire jumper set | Conexiuni | [7,99 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/12-set-de-cabluri-pentru-breadboard.html) |
 | Cablu USB-Mini | Alimentare & serial | [4,37 RON](https://www.optimusdigital.ro/ro/cabluri-cabluri-usb/3147-cablu-albastru-usb-am-b-mini-30-cm-pentru-arduino-nano.html) |
