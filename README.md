@@ -14,6 +14,8 @@ Am ales să fac acest proiect pentru că mi s-a părut util și interesant să c
 
 ### Schematic
 
+![Schematic](docs/schematic.png)
+
 
 ## Components
 
