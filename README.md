@@ -11,7 +11,7 @@ Am ales să fac acest proiect pentru că mi s-a părut util și interesant să c
 ## Architecture:
 
 ### Block diagram
-
+![Block diagram](docs/diagrama.png)
 ### Schematic
 
 ![Schematic](docs/schematic.png)
